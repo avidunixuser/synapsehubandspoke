@@ -23,10 +23,10 @@
 12) Create a link Sercive in spokes to connect to storage in the hub via managed identity
 
 ### Future needs 
-*Create a link service in spokes to connect to other resources in the hub workspace e.g.: SQL pool, spark pool, ADX pool, etc.
-*Create a private link for the aforementioned resources
+* Create a link service in spokes to connect to other resources in the hub workspace e.g.: SQL pool, spark pool, ADX pool, etc.
+* Create a private link for the aforementioned resources
 
-#Hub Architecture
+# Hub Architecture
 
 ![image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/hubandspoke.jpg)
 
@@ -34,7 +34,7 @@
 
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://github.com/avidunixuser/synapsehubandspoke/blob/main/SynapseHub/template.json)
 
-#Spoke 1 Architecture
+# Spoke 1 Architecture
 
 ![image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg)
 
@@ -42,7 +42,7 @@
 
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://github.com/avidunixuser/synapsehubandspoke/blob/main/SynapseSpoke1/template.json)
 
-#Spoke 2 Architecture
+# Spoke 2 Architecture
 
 ![image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg)
 
