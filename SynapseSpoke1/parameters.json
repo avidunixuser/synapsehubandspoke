@@ -1,0 +1,30 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "storageAccounts_spoke1adls_name": {
+            "value": null
+        },
+        "virtualNetworks_spoke1_vent_name": {
+            "value": null
+        },
+        "privateEndpoints_synapsespoke1_pe_name": {
+            "value": null
+        },
+        "workspaces_synapseworkspacespoke1_name": {
+            "value": null
+        },
+        "networkSecurityGroups_spoke1_vent_default_nsg_eastus_name": {
+            "value": null
+        },
+        "virtualNetworks_synapsehubandspokevnet_externalid": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_dev_azuresynapse_net_externalid": {
+            "value": null
+        }
+    }
+}
