@@ -2,7 +2,7 @@
 
 *This repository outlines the provisioning of Synapse Hub Workspace with centralized Azure Data Lake storage to be shared by all Synapse Spoke Workspaces. This can also be extended to Dedicated SQL Pool, Spark Pool, and Data Explorer Pool if required. These 3 components are out of scope for this exercise.
 
-![Resources Utilized]
+![IMPORTANT]
 
 * [Create a private link hub](https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-private-link-hubs)
 * [How to connect to hub workspace via private link](https://learn.microsoft.com/en-us/azure/synapse-analytics/security/how-to-connect-to-workspace-with-private-links)
@@ -26,25 +26,24 @@
 * Create a link service in spokes to connect to other resources in the hub workspace e.g.: SQL pool, spark pool, ADX pool, etc.
 * Create a private link for the aforementioned resources
 
-# Hub Architecture
-
-![image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/hubandspoke.jpg)
+### Hub Architecture
+<img src="https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/hubandspoke.jpg" width="200" />
 
 ### Deploy Private Link Hub to Azure
 
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://github.com/avidunixuser/synapsehubandspoke/blob/main/SynapseHub/template.json)
 
-# Spoke 1 Architecture
+### Spoke 1 Architecture
 
-![image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg)
+<img src="https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg" width="200" />
 
 ### Deploy Synapse Spoke1 to Azure
 
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://github.com/avidunixuser/synapsehubandspoke/blob/main/SynapseSpoke1/template.json)
 
-# Spoke 2 Architecture
+### Spoke 2 Architecture
 
-![image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg)
+<img src="https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke2.jpg" width="200" />
 
 ### Deploy Synapse Spoke2 to Azure
 
