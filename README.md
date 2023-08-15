@@ -24,7 +24,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 * Create a link Sercive in spokes to connect to storage in the hub via managed identity
 
 ### Future needs 
-* Create a link service in spokes to connect to other resources in the hub workspace e.g.: SQL pool, spark pool, ADX pool, etc.
+* Create a link service in spokes to connect to other resources in the hub workspace e.g.: SQL pool, Spark Pool, ADX Pool, etc.
 * Create a private link for the aforementioned resources
 
 ### Hub Architecture
@@ -40,7 +40,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 
 ### Deploy Synapse Spoke1 to Azure
 
-[[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%SynapseSpoke1%2Ftemplate.json)
+[[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%2FSynapseSpoke1%2Ftemplate.json)
 
 ### Spoke 2 Architecture
 
@@ -48,7 +48,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 
 ### Deploy Synapse Spoke2 to Azure
 
-[[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%SynapseSpoke2%2Ftemplate.json)
+[[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%2FSynapseSpoke2%2Ftemplate.json)
 
 > [!IMPORTANT]
 > To minimize cost related to this sample it is recommended to delete the resources groups for Hub and both the spokes when it is not needed.
