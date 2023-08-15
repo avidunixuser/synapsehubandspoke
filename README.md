@@ -28,7 +28,7 @@
 
 #Hub Architecture
 
-[!Image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/hubandspoke.jpg)
+![image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/hubandspoke.jpg)
 
 ### Deploy Private Link Hub to Azure
 
@@ -36,7 +36,7 @@
 
 #Spoke 1 Architecture
 
-[!image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg)
+![image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg)
 
 ### Deploy Synapse Spoke1 to Azure
 
@@ -44,7 +44,7 @@
 
 #Spoke 2 Architecture
 
-[!image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg)
+![image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg)
 
 ### Deploy Synapse Spoke2 to Azure
 
