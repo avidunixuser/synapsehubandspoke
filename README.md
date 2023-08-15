@@ -32,7 +32,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 
 ### Deploy Private Link Hub to Azure
 
-[[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%2FSynapseHub%2Ftemplate.json)
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%2FSynapseHub%2Ftemplate.json)
 
 ### Spoke 1 Architecture
 
@@ -40,7 +40,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 
 ### Deploy Synapse Spoke1 to Azure
 
-[[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%2FSynapseSpoke1%2Ftemplate.json)
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%2FSynapseSpoke1%2Ftemplate.json)
 
 ### Spoke 2 Architecture
 
@@ -48,7 +48,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 
 ### Deploy Synapse Spoke2 to Azure
 
-[[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%2FSynapseSpoke2%2Ftemplate.json)
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%2FSynapseSpoke2%2Ftemplate.json)
 
 > [!IMPORTANT]
 > To minimize cost related to this sample it is recommended to delete the resources groups for Hub and both the spokes when it is not needed.
