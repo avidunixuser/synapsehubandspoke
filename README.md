@@ -4,6 +4,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 
 > [!IMPORTANT]
 > [Create a private link hub](https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-private-link-hubs)
+> [!IMPORTANT]
 > [How to connect to hub workspace via private link](https://learn.microsoft.com/en-us/azure/synapse-analytics/security/how-to-connect-to-workspace-with-private-links)
 
 ### Steps to follow -
