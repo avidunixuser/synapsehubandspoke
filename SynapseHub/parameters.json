@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "workspaces_synapsehubworkspace_name": {
+            "value": null
+        },
+        "storageAccounts_synapsehubstorage_name": {
+            "value": null
+        },
+        "templateSpecs_Synapsehubandspoke_name": {
+            "value": null
+        },
+        "privateLinkHubs_synapseprivatelinkhub_name": {
+            "value": null
+        },
+        "virtualNetworks_synapsehubandspokevnet_name": {
+            "value": null
+        },
+        "privateEndpoints_synapsehubprivateendpoint_name": {
+            "value": null
+        },
+        "networkSecurityGroups_synapsehubandspoke_nsg_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_azuresynapse_net_name": {
+            "value": null
+        },
+        "privateEndpoints_hubworkspaceprivateendpoint_name": {
+            "value": null
+        },
+        "privateEndpoints_synapsestorageprivateendpoint_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_dev_azuresynapse_net_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_dfs_core_windows_net_name": {
+            "value": null
+        },
+        "networkSecurityGroups_synapsehubandspokevnet_default_nsg_eastus_name": {
+            "value": null
+        },
+        "virtualNetworks_spoke1_vent_externalid": {
+            "value": null
+        },
+        "virtualNetworks_spoke2_vnet_externalid": {
+            "value": null
+        }
+    }
+}
