@@ -1,8 +1,8 @@
-# Synapse Hun and Spoke Deployment
+# Synapse Hub and Spoke Deployment
 
 *This repository outlines the provisioning of Synapse Hub Workspace with centralized Azure Data Lake storage to be shared by all Synapse Spoke Workspaces. This can also be extended to Dedicated SQL Pool, Spark Pool, and Data Explorer Pool if required. These 3 components are out of scope for this exercise.
 
-[!Resources Utilized]
+![Resources Utilized]
 
 * [Create a private link hub](https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-private-link-hubs)
 * [How to connect to hub workspace via private link](https://learn.microsoft.com/en-us/azure/synapse-analytics/security/how-to-connect-to-workspace-with-private-links)
