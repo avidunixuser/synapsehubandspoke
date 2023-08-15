@@ -25,7 +25,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 
 ### Future needs 
 * Create a link service in spokes to connect to other resources in the hub workspace e.g.: SQL pool, Spark Pool, ADX Pool, etc.
-* Create a private link for the aforementioned resources
+* Create a private link for the resources as mentioned above
 
 ### Hub Architecture
 ![Image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/hubandspoke.jpg)
