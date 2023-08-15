@@ -27,7 +27,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 * Create a private link for the aforementioned resources
 
 ### Hub Architecture
-<img src="https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/hubandspoke.jpg" width="200" />
+<img src="https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/hubandspoke.jpg" width="500" />
 
 ### Deploy Private Link Hub to Azure
 
@@ -35,7 +35,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 
 ### Spoke 1 Architecture
 
-<img src="https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg" width="500" />
+<img src="https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg" width="200" />
 
 ### Deploy Synapse Spoke1 to Azure
 
