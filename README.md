@@ -1,6 +1,6 @@
 # Synapse Hub and Spoke Deployment
 
-*This repository outlines the provisioning of Synapse Hub Workspace with centralized Azure Data Lake storage to be shared by all Synapse Spoke Workspaces. This can also be extended to Dedicated SQL Pool, Spark Pool, and Data Explorer Pool if required. These 3 components are out of scope for this exercise.
+This repository outlines the provisioning of Synapse Hub Workspace with centralized Azure Data Lake storage to be shared by all Synapse Spoke Workspaces. This can also be extended to Dedicated SQL Pool, Spark Pool, and Data Explorer Pool if required. These 3 components are out of scope for this exercise.
 
 ![IMPORTANT]
 
@@ -35,7 +35,7 @@
 
 ### Spoke 1 Architecture
 
-<img src="https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg" width="200" />
+<img src="https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/synapsespoke1.jpg" width="500" />
 
 ### Deploy Synapse Spoke1 to Azure
 
