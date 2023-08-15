@@ -32,7 +32,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 
 ### Deploy Private Link Hub to Azure
 
-[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://github.com/avidunixuser/synapsehubandspoke/blob/main/SynapseHub/template.json)
+[![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)(https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fsynapsehubandspoke%2Fmaster%template.json))
 
 ### Spoke 1 Architecture
 
