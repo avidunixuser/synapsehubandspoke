@@ -51,6 +51,6 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%2FSynapseSpoke2%2Ftemplate.json)
 
 > [!IMPORTANT]
-> To minimize cost related to this sample it is recommended to delete the resources groups for Hub and both the spokes when it is not needed.
+> To minimize the cost related to this sample, it is recommended to delete the resource groups for Hub and both the spokes when they are not needed.
 
 
