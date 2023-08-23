@@ -1,6 +1,6 @@
 # Synapse Hub and Spoke Deployment
 
-This repository outlines the provisioning of Synapse Hub Workspace with centralized Azure Data Lake storage to be shared by all Synapse Spoke Workspaces. This can also be extended to Dedicated SQL Pool, Spark Pool, and Data Explorer Pool if required. These 3 components are out of scope for this exercise.
+This repository outlines the provisioning of Synapse Hub Workspace with centralized Azure Data Lake storage to be shared by all Synapse Spoke Workspaces. This can also be extended to the Dedicated SQL Pool, Spark Pool, and Data Explorer Pool if applicable. These 3 components are out of scope for this exercise.
 
 > [!IMPORTANT]
 > The following documentation was referred to create this repository
@@ -16,7 +16,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 * Create Synapse hub workspace with private Hierarchical Azure Data Lake Storage
 * Create 2 spoke Synapse workspaces with private Hierarchical Azure Data Lake Storage
 * Create 2 Virtual Networks in respective spokes
-* Peer both spoke Virtual Network with hub Virtual Network
+* Peer both spoke Virtual Networks with hub Virtual Network
 * Create private endpoints in 2 spoke workspaces
 * Add a managed identity for storage blob contributor and storage contributor to hub workspace for both spoke workspaces
 * Connect private endpoint to a hub resource for Hierarchical Azure Data Lake Storage
@@ -25,7 +25,7 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 
 ### Future needs 
 * Create a link service in spokes to connect to other resources in the hub workspace e.g.: SQL pool, Spark Pool, ADX Pool, etc.
-* Create a private link for the resources as mentioned above
+* Create a private link for the resources mentioned above
 
 ### Hub Architecture
 ![Image](https://github.com/avidunixuser/synapsehubandspoke/blob/main/Architecture/hubandspoke.jpg)
@@ -51,6 +51,6 @@ This repository outlines the provisioning of Synapse Hub Workspace with centrali
 [![Deploy To Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Favidunixuser%2Fsynapsehubandspoke%2Fmain%2FSynapseSpoke2%2Ftemplate.json)
 
 > [!IMPORTANT]
-> To minimize the cost related to this sample, it is recommended to delete the resource groups for Hub and both the spokes when they are not needed.
+> To minimize the cost related to this sample, it is recommended to delete the resource groups for Hub and the spokes when they are not needed.
 
 
